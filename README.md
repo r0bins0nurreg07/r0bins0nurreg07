@@ -1,9 +1,9 @@
 <!-- HEADER ANIMADO -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Robinson%20Urrego%20-%20Analista%20De%20Datos&fontSize=32&fontColor=ffffff&animation=fadeIn" />
 
-<!-- TYPING EFFECT -->
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Analista+de+Datos;ETL+%7C+EDA+%7C+Big+Data;Python+%7C+SQL+%7C+AWS;Transformando+datos+en+decisiones" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Analista+De+Datos;ETL+%7C+EDA+%7C+Big+Data;Python+%7C+SQL+%7C+AWS;Transformando+datos+en+decisiones" />
 </p>
 
 ---
@@ -42,6 +42,19 @@
 
 ---
 
+## 🚀 Proyectos Destacados
+
+- 📊 **Pipeline ETL con Python + Airflow**  
+  → Extracción, transformación y carga de datos automatizada  
+
+- 📈 **Dashboard de análisis de datos**  
+  → Visualización de métricas clave para toma de decisiones  
+
+- ☁️ **Arquitectura de datos en AWS**  
+  → Procesamiento y almacenamiento escalable en la nube  
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -61,9 +74,9 @@
 
 ## 🧠 Actualmente
 
-- 📈 Aprendiendo más sobre ingeniería de datos  
+- 📈 Aprendiendo ingeniería de datos  
 - 🔄 Construyendo pipelines ETL/ELT  
-- ☁️ Explorando arquitecturas cloud en AWS  
+- ☁️ Explorando arquitecturas en AWS  
 - ⚡ Automatizando procesos con Airflow y Celery  
 - 🌐 Creando interfaces web modernas  
 
@@ -71,8 +84,8 @@
 
 ## 🌎 Contacto
 
-- 💼 LinkedIn: (pon tu link)
-- 📧 Email: (pon tu correo)
+- 💼 LinkedIn: https://linkedin.com/in/TU-LINK  
+- 📧 Email: tuemail@gmail.com  
 
 ---
 
@@ -84,5 +97,6 @@
 
 ---
 
-<!-- ANIMACIÓN EXTRA (SNAKE) -->
+## 🐍 Actividad
+
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
