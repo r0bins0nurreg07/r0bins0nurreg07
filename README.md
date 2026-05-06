@@ -1,19 +1,31 @@
+<!-- HEADER ANIMADO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Robinson%20Urrego%20-%20Data%20Analyst&fontSize=32&fontColor=ffffff&animation=fadeIn" />
+
+<!-- TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Analista+de+Datos;ETL+%7C+EDA+%7C+Big+Data;Python+%7C+SQL+%7C+AWS;Transformando+datos+en+decisiones" />
+</p>
+
+---
+
 # 👋 Hola, soy Robinson
 
-📊 Analista de datos 
-🚀 Apasionado por análisis de datos, automatización y desarrollo web.
+📊 Analista de datos  
+🚀 Apasionado por análisis de datos, automatización y desarrollo web  
 
 ---
 
-# 🛠️ Tecnologías
+## 🛠️ Tecnologías
 
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css,tailwind,postgres,mongodb,docker,aws,git,github,vscode)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,tailwind,postgres,mongodb,docker,aws,git,github,vscode" />
+</p>
 
 ---
 
-# ⚙️ Stack & Herramientas
+## ⚙️ Stack & Herramientas
 
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/EDA-Analytics-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ETL%20%2F%20ELT-Data%20Pipelines-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -30,29 +42,47 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Robinson GitHub stats](https://github-readme-stats.vercel.app/api?username=r0bins0nurreg07&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r0bins0nurreg07&layout=compact&theme=tokyonight)
-
----
-
-# 🔥 Actualmente
-
-- 📈 Aprendiendo más sobre ingeniería de datos
-- 🔄 Construyendo pipelines ETL/ELT
-- ☁️ Explorando arquitecturas cloud en AWS
-- ⚡ Mejorando automatizaciones con Airflow y Celery
-- 🌐 Creando interfaces web modernas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=robinsonurrego7&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinsonurrego7&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-# 🌎 Contacto
+## 🔥 Racha de contribuciones
 
-- LinkedIn
-- Email
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=robinsonurrego7&theme=tokyonight" />
+</p>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=r0bins0nurreg07&color=blueviolet)
+## 🧠 Actualmente
+
+- 📈 Aprendiendo más sobre ingeniería de datos  
+- 🔄 Construyendo pipelines ETL/ELT  
+- ☁️ Explorando arquitecturas cloud en AWS  
+- ⚡ Automatizando procesos con Airflow y Celery  
+- 🌐 Creando interfaces web modernas  
+
+---
+
+## 🌎 Contacto
+
+- 💼 LinkedIn: (pon tu link)
+- 📧 Email: (pon tu correo)
+
+---
+
+## 👀 Visitas al perfil
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=robinsonurrego7&color=blueviolet" />
+</p>
+
+---
+
+<!-- ANIMACIÓN EXTRA (SNAKE) -->
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
