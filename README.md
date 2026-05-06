@@ -1,5 +1,5 @@
 <!-- HEADER ANIMADO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Robinson%20Urrego%20-%20Data%20Analyst&fontSize=32&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Robinson%20Urrego%20-%20Analista%De%20Analyst&fontSize=32&fontColor=ffffff&animation=fadeIn" />
 
 <!-- TYPING EFFECT -->
 <p align="center">
