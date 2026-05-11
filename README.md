@@ -33,6 +33,14 @@
 <img src="https://img.shields.io/badge/Dataset-Exploración-blue?style=for-the-badge&logo=kaggle&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-Modelo%20Estrella-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Power%20BI%20%2B%20Claude-IA%20Analítica-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
+
+### 🤖 Automatización & IA
+<p align="center">
+<img src="https://img.shields.io/badge/n8n-Automatización-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude%20AI-Asistente%20de%20Datos-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI%20%2B%20Claude-Narrativas%20Automáticas-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ### 🔄 Ingeniería de Datos (ETL / ELT)
@@ -107,6 +115,11 @@
 - Construcción de **Python Pipelines** para limpieza y transformación
 - Modelado dimensional (**Modelo Estrella**) en **PostgreSQL**
 - Presentación de resultados en dashboards con **Power BI**
+- Uso de **Claude AI** para generar consultas DAX, interpretar métricas y crear narrativas automáticas en Power BI
+
+**🤖 Automatización & IA**
+- Automatización de flujos de trabajo con **n8n** — integrando APIs, bases de datos y servicios externos
+- Asistencia con **Claude AI** para análisis, generación de código y decisiones basadas en datos
 
 **🔄 Ingeniería de Datos — flujo ETL / ELT**
 - Orquestación de pipelines con **Apache Airflow**
