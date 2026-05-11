@@ -51,10 +51,18 @@
 <img src="https://img.shields.io/badge/Flower-Monitoreo%20Celery-00C7B7?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache%20Spark-Big%20Data-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
 <img src="https://img.shields.io/badge/Workers-Procesamiento%20Dist.-6DB33F?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Proxy-Gestión%20de%20Red-555555?style=for-the-badge&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-Contenedores-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Proxy-Gestión%20de%20Interfaces-555555?style=for-the-badge&logo=nginx&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### 🐳 Infraestructura — Docker en AWS EC2
+<p align="center">
+<img src="https://img.shields.io/badge/Docker%20Compose-Infraestructura-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20EC2-Instancias%20Cloud-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+<img src="https://img.shields.io/badge/Proxy-Exposición%20de%20UIs-555555?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Airflow%20UI-Interfaz%20Web-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Flower%20UI-Monitor%20Celery-00C7B7?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/RabbitMQ%20UI-Gestión%20Colas-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
 </p>
 
 ---
@@ -128,6 +136,14 @@
 - Procesamiento a escala con **Apache Spark**
 - Gestión de red y enrutamiento con **Proxy**
 - 🎓 Estudiando arquitecturas de datos en producción
+
+**🐳 Infraestructura Dockerizada en AWS EC2**
+- Toda la infraestructura levantada con **Docker Compose** en instancias **EC2**
+- Servicios contenerizados: **Proxy · Airflow · RabbitMQ · Celery · Flower · Spark · Workers**
+- El **Proxy** expone las interfaces web de cada servicio para control centralizado:
+  - 🌐 Airflow UI — monitoreo y gestión de DAGs
+  - 🌸 Flower UI — estado de workers y tareas Celery
+  - 🐇 RabbitMQ Management — colas y mensajes en tiempo real
 
 ---
 
