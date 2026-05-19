@@ -44,36 +44,15 @@
 </p>
 
 ### 🔄 Ingeniería de Datos (ETL / ELT)
-<p align="center">
-<img src="https://img.shields.io/badge/Airflow-Orquestación-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-<img src="https://img.shields.io/badge/RabbitMQ-Mensajería-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-<img src="https://img.shields.io/badge/Celery-Task%20Queue-37814A?style=for-the-badge&logo=celery&logoColor=white" />
-<img src="https://img.shields.io/badge/Flower-Monitoreo%20Celery-00C7B7?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache%20Spark-Big%20Data-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/Workers-Procesamiento%20Dist.-6DB33F?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Proxy-Gestión%20de%20Interfaces-555555?style=for-the-badge&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
+
 
 ### 🐳 Infraestructura — Docker en AWS EC2
-<p align="center">
-<img src="https://img.shields.io/badge/Docker%20Compose-Infraestructura-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS%20EC2-Instancias%20Cloud-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
-<img src="https://img.shields.io/badge/Proxy-Exposición%20de%20UIs-555555?style=for-the-badge&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/Airflow%20UI-Interfaz%20Web-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Flower%20UI-Monitor%20Celery-00C7B7?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/RabbitMQ%20UI-Gestión%20Colas-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-</p>
+
 
 ---
 
 ## 🚀 Proyectos Destacados
-- 📊 **Pipeline ETL con Python + Airflow**  
-  → Extracción, transformación y carga de datos automatizada  
-- 📈 **Dashboard de análisis de datos**  
-  → Visualización de métricas clave para toma de decisiones  
-- ☁️ **Arquitectura de datos en AWS**  
-  → Procesamiento y almacenamiento escalable en la nube  
+
 
 ---
 
@@ -103,7 +82,7 @@
 
 ## 🗺️ Roadmap — Ingeniería de Datos
 ```
-🟩 Fundamentos de Python para datos         ████████████████████  100%
+🟩 Fundamentos de Python para datos          ████████████████████  100%
 🟩 SQL Avanzado & PostgreSQL                 ████████████████████  100%
 🟩 ETL con Python + Airflow                  ████████████████░░░░   80%
 🟨 ELT con dbt + Snowflake / BigQuery        ████████████░░░░░░░░   60%
